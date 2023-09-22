@@ -1,3 +1,10 @@
+
+/*
+ * Author:kvishnuv
+ * Title:Buble sort
+ * why? simple to start learning the sorting algorithm no extra space but O(n^2) time ccomplexity.
+ */
+
 package Sorting;
 
 import java.util.Arrays;
