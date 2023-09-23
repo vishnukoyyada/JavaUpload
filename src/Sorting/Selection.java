@@ -1,7 +1,7 @@
 /*
  * Author: kvishnuv.
- * Tttle: Insertion sort.
- * insertion sort works in a way that select a element and put it in right place and then next select an other element and put in the next right place.
+ * Tttle: Selection sort.
+ *Selection sort works in a way that select a element and put it in right place and then next select an other element and put in the next right place.
  * No stable algoritham.
  * Time complexity O(n^2) and constant space complexity.
  */
