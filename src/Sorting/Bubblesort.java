@@ -2,7 +2,10 @@
 /*
  * Author:kvishnuv
  * Title:Buble sort
+ * Take the adjacent element and compare with the previous and then if it is less than that swap the element.
+ * Not stable agoritham.
  * why? simple to start learning the sorting algorithm no extra space but O(n^2) time ccomplexity.
+ * Time complexity O(n^2) and Auxiliary space complexity.
  */
 
 package Sorting;
