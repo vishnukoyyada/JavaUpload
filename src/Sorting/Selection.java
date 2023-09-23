@@ -10,7 +10,7 @@ package Sorting;
 
 import java.util.Arrays;
 
-public class Insertion {
+public class Selection {
     public static void main(String[] args){
         int[] nums= {4,3,2,5,1};
         int size = nums.length;
