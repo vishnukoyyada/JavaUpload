@@ -3,7 +3,7 @@
  * Title: Cyclic sort
  * Time complexity O(n)
  * take a value and put it in a correct position if it is already at correct position then move the pointer or else keep changing
- * I think this algoritham is limited because  i think all elements should be from 1 to n  like continouous 
+ * I think this algorithm is limited because  i think all elements should be from 1 to n  like continouous
  */
 
 package Sorting;
