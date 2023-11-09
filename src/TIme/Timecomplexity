@@ -1,0 +1,13 @@
+time complexity is the time taken  when the input also increases.
+it is like a graph between time and size and
+time complexity is  a function between time and size   which tells how the time will grow when increased in size.
+
+O(1)<O(log(n))<O(n)<O(n^2)<O(n^3)
+
+space complexity is equals of the recursion problems is the height of the tree.
+auxiliary space is the extra space which the program required
+
+Height of the tree is equals to the height from the root node to the child node.
+
+
+two types of recursions linear and divide and conquer

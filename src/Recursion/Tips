@@ -1,0 +1,2 @@
+1) whenever you are calling a function which has return type  then add return to it as well
+2) add the parameters which are usefull for next recursion or else use them in the body.

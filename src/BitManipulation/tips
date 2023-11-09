@@ -1,0 +1,11 @@
+  whenever you perform an and operator with 1 the value will not change and whenever  you perform with 0 it will be 0 only.
+xor n with 1 it will get compliment n^1 = n-(compliment).
+n^n = 0
+n^0 = n
+N^1 = N-
+1<<(n-1)
+
+
+xor property;
+xorof0ToaClass.
+
