@@ -1,14 +1,11 @@
-package Recursion.Subsetspackages.Subsets;
+package Recursion.Strings;
 
 import java.util.ArrayList;
 
 
 // 2 power length values are genrated;
 
-public class
-
-
-Subsetsrecursion {
+public class SubSequences {
     public static void main(String[] args) {
         String  input = "abc";
         printsubequences(input,"");

@@ -1,4 +1,4 @@
-package Recursion.Subsetspackages;
+package Recursion.Strings;
 
 public class SkipString {
     public static void main(String[] args) {

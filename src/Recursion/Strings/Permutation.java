@@ -1,4 +1,4 @@
-package  Recursion.Subsetspackages.Subsets;
+package Recursion.Strings;
 
 import java.util.ArrayList;
 
@@ -6,10 +6,10 @@ public class Permutation {
     public static void main(String[] args) {
         String in = "abc";
         printPermutations(in,"");
-        ArrayList<String> ans = new ArrayList<>();
-        printPermutations2(in,"",ans);
-        System.out.println(ans);
-        System.out.println(printPermutations3(in,""));
+       // ArrayList<String> ans = new ArrayList<>();
+       // printPermutations2(in,"",ans);
+       // System.out.println(ans);
+        //System.out.println(printPermutations3(in,""));
     }
 
 
